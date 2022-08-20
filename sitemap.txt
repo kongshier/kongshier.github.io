@@ -1,0 +1,6 @@
+http://example.com/2022/08/20/linux/Linux%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4/
+http://example.com/2022/08/20/picgo+github/picgo+GitHub%E6%90%AD%E5%BB%BA%E5%9B%BE%E5%BA%8A/
+http://example.com/link/index.html
+http://example.com/categories/index.html
+http://example.com/tags/index.html
+http://example.com/
